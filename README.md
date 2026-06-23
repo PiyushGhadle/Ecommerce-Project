@@ -67,15 +67,15 @@ Ecommerce-Project/
 
 ### ➕ Add Product
 
-![Add Product](Screenshot/add-product.png)
+![Add Product](https://github.com/PiyushGhadle/Ecommerce-Project/blob/main/Screenshort/add-product.png)
 
 ### ✏️ Update Product
 
-![Update Product](Screenshot/update-product.png)
+![Update Product](https://github.com/PiyushGhadle/Ecommerce-Project/blob/main/Screenshort/update-product.png)
 
 ### 📦 Product Details
 
-![Product Details](Screenshot/product-details.png)
+![Product Details](https://github.com/PiyushGhadle/Ecommerce-Project/blob/main/Screenshort/product-details.png)
 
 ---
 
