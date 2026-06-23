@@ -63,7 +63,7 @@ Ecommerce-Project/
 
 ### 🏠 Home Page
 
-![Home Page](Screenshot/Home.png)
+![Home Page](https://github.com/PiyushGhadle/Ecommerce-Project/blob/main/Screenshort/Home.png)
 
 ### ➕ Add Product
 
