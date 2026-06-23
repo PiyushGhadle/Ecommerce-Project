@@ -63,19 +63,19 @@ Ecommerce-Project/
 
 ### 🏠 Home Page
 
-![Home Page](Screenshots/home.png)
+![Home Page](Screenshot/Home.png)
 
 ### ➕ Add Product
 
-![Add Product](Screenshots/add-product.png)
+![Add Product](Screenshot/add-product.png)
 
 ### ✏️ Update Product
 
-![Update Product](Screenshots/update-product.png)
+![Update Product](Screenshot/update-product.png)
 
 ### 📦 Product Details
 
-![Product Details](Screenshots/product-details.png)
+![Product Details](Screenshot/product-details.png)
 
 ---
 
